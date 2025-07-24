@@ -25,11 +25,4 @@ This is a beginner-friendly terminal-based **Slot Machine** game written in Pyth
 
 ---
 
-## ▶️ How to Run
-
-1. Make sure Python is installed on your system.
-2. Save the code in a file named `slot_machine.py`.
-3. Open your terminal or VS Code terminal.
-4. Run the script using:
-5. 
 python slot_machine.py
